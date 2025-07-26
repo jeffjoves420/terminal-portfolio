@@ -174,7 +174,7 @@ Classification ) </li>
 
 <div class="trading-analysis">
   <ul>
-    <li>📧 <span class="link" onclick="navigator.clipboard.writeText('jeff.joves@example.com')">jeff.joves@example.com</span></li>
+    <li>📧 <span class="link" onclick="navigator.clipboard.writeText('https://jeffjoves-portfolio.vercel.app/')">https://jeffjoves-portfolio.vercel.app/</span></li>
     <li>📞 +63461367167</li>
     <li>🌐 <a href="https://www.linkedin.com/in/jeff-alvin-joves/" target="_blank" class="link">https://www.linkedin.com/in/jeff-alvin-joves/</a></li>
     <li>🐙 <a href="https://github.com/jeffjoves420" target="_blank" class="link">https://github.com/jeffjoves420</a></li>
