@@ -13,7 +13,7 @@
       let currentDirectory = '~';
 
       // Constants
-      const RESUME_URL = 'https://github.com/jeffjoves420/resume/blob/main/Jeff%20D.%20Joves%20-%20%20Data%20Analyst.pdf';
+      const RESUME_URL = 'https://github.com/jeffjoves420/resume/blob/main/Jeff%20D.%20Joves_DataAnalyst.pdf';
       const RESUME_FILENAME = 'Jeff_Joves_Resume.pdf';
       const STATIC_ANALYSIS_TEXT = `Bullish pennant formation. Support at $58,500. Target $110,000.`;
 
